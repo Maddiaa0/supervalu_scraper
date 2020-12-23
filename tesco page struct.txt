@@ -1,0 +1,14 @@
+where to get the ingredients list from a tesco web page
+
+html
+    body id="product_details"
+        <div id="container"
+            <div id="outer"
+                <div id="content"
+                    <div class="productDetailsContainer"
+                        <div class="tabbedBox detailsBox fullWidth"
+                            <div class="content"
+                                <div class="cf clearfix"
+                                    <p>
+                                        ingredients are listed in here
+                                    </p>
